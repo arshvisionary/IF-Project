@@ -1,4 +1,4 @@
-# Jupyter Book Tutorial
+# Introduction
 
 (Last updated: May 26, 2024)
 
